@@ -2,10 +2,12 @@
 Work I did for SNHU CS-370
 
  
-Briefly explain the work that you did on this project: What code were you given? What code did you create yourself?  
-  In project 2, I wrote the code that is within the main loop of the program. This code assisted the agent in deciding whether to use exploration or exploitation as the action strategy.
+        Briefly explain the work that you did on this project: What code were you given? What code did you create yourself?  
+
+In project 2, I wrote the code that is within the main loop of the program. This code assisted the agent in deciding whether to use exploration or exploitation as the action strategy.
   
 Connect your learning from throughout this course to the larger field of computer science:
+
         What do computer scientists do and why does it matter?
 Computer scientists help develop programs to help solve problems people have, from large problems to small ones.
 
